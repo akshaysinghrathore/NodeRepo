@@ -1,0 +1,22 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaysinghrathore/NodeRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaysinghrathore/NodeRepo/issues"
+  },
+  "homepage": "https://github.com/akshaysinghrathore/NodeRepo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
